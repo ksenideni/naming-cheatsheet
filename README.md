@@ -367,4 +367,5 @@ const friend = 'Bob'
 const friends = ['Bob', 'Tony', 'Tanya']
 ```
 a  
+ b  
  
