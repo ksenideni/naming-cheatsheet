@@ -368,4 +368,6 @@ const friends = ['Bob', 'Tony', 'Tanya']
 ```
 a  
  b  
+ c  
+ d  
  
