@@ -366,7 +366,10 @@ const friend = ['Bob', 'Tony', 'Tanya']
 const friend = 'Bob'
 const friends = ['Bob', 'Tony', 'Tanya']
 ```
-e  
- f  
- g  
- 
+a
+b
+c
+d
+e
+f
+g
